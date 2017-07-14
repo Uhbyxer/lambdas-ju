@@ -17,5 +17,4 @@ class ComparatorUtilTest {
 		List<String> list = ComparatorUtil.sortByFirstLetter(asList("Bob", "Ann", "Nick"));
 		System.out.println(list);
 	}
-
 }
