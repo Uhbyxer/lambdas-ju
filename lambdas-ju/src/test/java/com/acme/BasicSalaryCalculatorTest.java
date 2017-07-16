@@ -12,7 +12,7 @@ import org.junit.platform.runner.JUnitPlatform;
 import org.junit.runner.RunWith;
 
 @RunWith(JUnitPlatform.class)
-@Ignore
+//@Ignore
 public class BasicSalaryCalculatorTest {
 	private BasicSalaryCalculator basicSalaryCalculator;
 
